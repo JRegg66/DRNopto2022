@@ -1,0 +1,3 @@
+[submodule "allenfuncs"]
+	path = allenfuncs
+	url = https://github.com/jesseba/allenfuncs
